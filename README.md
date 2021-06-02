@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/matheushrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matheushrt" height="30" width="40" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=matheushrts" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="matheushrts" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/matheushrt" target="blank"><img align="center" src="https://editorial.unal.edu.co/fileadmin/recursos/direcciones/extension_bogota/img/icono_linkedin.png" alt="matheushrt" height="30" width="40" /></a>
-<a href="https://instagram.com/matheushrt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="matheushrt" height="40" width="40" /></a>
-<a href="https://medium.com/@matheushenriquesouza" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@matheushenriquesouza" height="40" width="40" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=matheushrts" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="matheushrts" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/matheushrt" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG13.png" alt="matheushrt" height="30" width="30" /></a>
+<a href="https://instagram.com/matheushrt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="matheushrt" height="30" width="30" /></a>
+<a href="https://medium.com/@matheushenriquesouza" target="blank"><img align="center" src="https://www.shareicon.net/data/512x512/2015/10/02/110808_blog_512x512.png" alt="@matheushenriquesouza" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
