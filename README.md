@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working for [Nuri](https://nuri.com)
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **native iOS Development**
 
-- 💬 Ask me about **react, node, graphql**
+- 💬 Ask me about **javascript, node, graphql, react**
 
 - 📫 How to reach me **matheushrt@gmail.com**
 
