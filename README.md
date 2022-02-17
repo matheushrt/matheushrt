@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/matheushrts" target="blank"><img src="https://img.shields.io/twitter/follow/matheushrts?style=social" alt="matheushrts" /></a> </p>
 
-- 🔭 I’m currently working for [Nuri](https://nuri.com)
+- 🔭 I’m currently working for [Trendyol](https://www.trendyol.com/)
 
 - 🌱 I’m currently learning **native iOS Development**
 
